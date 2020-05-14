@@ -1,5 +1,5 @@
 # Proyecto POO
-**Realizado con Python y OpenCv**
+**Filtros de imagenes con Python y OpenCv**
 ##### python  3.8.2
 
 # Instrucciones
