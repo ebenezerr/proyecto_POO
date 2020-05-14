@@ -16,4 +16,4 @@ if __name__ == '__main__':
     ImageStorage.save_img(img=img_vintage, name_img='vintage2.jpg')
     ImageStorage.save_img(img_edges, 'edges.jpg')
     ImageStorage.save_img(img=img_flip, name_img="flip.jpg")
-    #print("El proyecto corrio exitosamente")
+    print("El proyecto corrio exitosamente")
