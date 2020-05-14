@@ -1,7 +1,8 @@
 # Proyecto POO
 **Realizado con Python y OpenCv**
 ##### python  [3.8.2](https://github.com/pandao/editor.md "Heading link")
-#Instrucciones
+
+# Instrucciones
 
 
 **Para poder hacer correr el proyecto debe:**
